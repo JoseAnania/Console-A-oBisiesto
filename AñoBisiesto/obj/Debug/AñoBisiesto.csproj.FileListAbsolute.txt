@@ -1,0 +1,7 @@
+C:\Users\José\Desktop\Dev\C#\Consola\AñoBisiesto\AñoBisiesto\bin\Debug\AñoBisiesto.exe.config
+C:\Users\José\Desktop\Dev\C#\Consola\AñoBisiesto\AñoBisiesto\bin\Debug\AñoBisiesto.exe
+C:\Users\José\Desktop\Dev\C#\Consola\AñoBisiesto\AñoBisiesto\bin\Debug\AñoBisiesto.pdb
+C:\Users\José\Desktop\Dev\C#\Consola\AñoBisiesto\AñoBisiesto\obj\Debug\AñoBisiesto.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\C#\Consola\AñoBisiesto\AñoBisiesto\obj\Debug\AñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\C#\Consola\AñoBisiesto\AñoBisiesto\obj\Debug\AñoBisiesto.exe
+C:\Users\José\Desktop\Dev\C#\Consola\AñoBisiesto\AñoBisiesto\obj\Debug\AñoBisiesto.pdb
